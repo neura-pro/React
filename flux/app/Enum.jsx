@@ -1,0 +1,5 @@
+export default class Enum {
+    static FILTER_SHOW_ALL = 'FILTER_SHOW_ALL';
+    static FILTER_SHOW_ACTIVE = 'FILTER_SHOW_ACTIVE';
+    static FILTER_SHOW_COMPLETED = 'FILTER_SHOW_COMPLETED';
+}
